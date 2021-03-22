@@ -13,7 +13,10 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
-        <h2><%= new Date() %></h2>
+        <ul>
+            <li><a href='categoria.jsp'>Categorias</a></li>
+            <li>Pessoas</li>
+            <li>Item</li>
+        </ul>
     </body>
 </html>
